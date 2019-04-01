@@ -1,0 +1,8 @@
+C:\Users\Nestorides\Desktop\Presentation\Class 7\Projects\Ieropoulos Vasilis\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Release\Nutritionist.create.resources
+C:\Users\Nestorides\Desktop\Presentation\Class 7\Projects\Ieropoulos Vasilis\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Release\Nutritionist.login.resources
+C:\Users\Nestorides\Desktop\Presentation\Class 7\Projects\Ieropoulos Vasilis\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Release\Nutritionist.mainmenu.resources
+C:\Users\Nestorides\Desktop\Presentation\Class 7\Projects\Ieropoulos Vasilis\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Release\Nutritionist.SplashScreen1.resources
+C:\Users\Nestorides\Desktop\Presentation\Class 7\Projects\Ieropoulos Vasilis\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Release\Nutritionist.viewc.resources
+C:\Users\Nestorides\Desktop\Presentation\Class 7\Projects\Ieropoulos Vasilis\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Release\Nutrition.vbproj.GenerateResource.Cache
+C:\Users\Nestorides\Desktop\Presentation\Class 7\Projects\Ieropoulos Vasilis\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Release\Nutrionist.exe.config
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Release\Nutrionist.exe.config

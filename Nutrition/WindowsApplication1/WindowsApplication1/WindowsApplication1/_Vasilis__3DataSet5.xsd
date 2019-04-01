@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="_Vasilis__3DataSet5" targetNamespace="http://tempuri.org/_Vasilis__3DataSet5.xsd" xmlns:mstns="http://tempuri.org/_Vasilis__3DataSet5.xsd" xmlns="http://tempuri.org/_Vasilis__3DataSet5.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="Vasilis__3ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Vasilis__3ConnectionString (MySettings)" PropertyReference="ApplicationSettings.Nutritionist.My.MySettings.GlobalReference.Default.Vasilis__3ConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="QryDietsSubscribedTableAdapter" GeneratorDataComponentClassName="QryDietsSubscribedTableAdapter" Name="QryDietsSubscribed" UserDataComponentName="QryDietsSubscribedTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Vasilis__3ConnectionString (MySettings)" DbObjectName="QryDietsSubscribed" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Name, [Day], [TblForBreakfast.Food], [TblForLunch.Food], [TblForDinner.Food], [TblForSnack.Food], [TblForDrink.Food], Comments, FollowUp FROM QryDietsSubscribed</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Name" DataSetColumn="Name" />
+              <Mapping SourceColumn="Day" DataSetColumn="Day" />
+              <Mapping SourceColumn="TblForBreakfast.Food" DataSetColumn="TblForBreakfast_Food" />
+              <Mapping SourceColumn="TblForLunch.Food" DataSetColumn="TblForLunch_Food" />
+              <Mapping SourceColumn="TblForDinner.Food" DataSetColumn="TblForDinner_Food" />
+              <Mapping SourceColumn="TblForSnack.Food" DataSetColumn="TblForSnack_Food" />
+              <Mapping SourceColumn="TblForDrink.Food" DataSetColumn="TblForDrink_Food" />
+              <Mapping SourceColumn="Comments" DataSetColumn="Comments" />
+              <Mapping SourceColumn="FollowUp" DataSetColumn="FollowUp" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="_Vasilis__3DataSet5" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="_Vasilis__3DataSet5" msprop:Generator_UserDSName="_Vasilis__3DataSet5">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="QryDietsSubscribed" msprop:Generator_TableClassName="QryDietsSubscribedDataTable" msprop:Generator_TableVarName="tableQryDietsSubscribed" msprop:Generator_TablePropName="QryDietsSubscribed" msprop:Generator_RowDeletingName="QryDietsSubscribedRowDeleting" msprop:Generator_RowChangingName="QryDietsSubscribedRowChanging" msprop:Generator_RowEvHandlerName="QryDietsSubscribedRowChangeEventHandler" msprop:Generator_RowDeletedName="QryDietsSubscribedRowDeleted" msprop:Generator_UserTableName="QryDietsSubscribed" msprop:Generator_RowChangedName="QryDietsSubscribedRowChanged" msprop:Generator_RowEvArgName="QryDietsSubscribedRowChangeEvent" msprop:Generator_RowClassName="QryDietsSubscribedRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Day" msprop:Generator_ColumnVarNameInTable="columnDay" msprop:Generator_ColumnPropNameInRow="Day" msprop:Generator_ColumnPropNameInTable="DayColumn" msprop:Generator_UserColumnName="Day" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TblForBreakfast_Food" msprop:Generator_ColumnVarNameInTable="columnTblForBreakfast_Food" msprop:Generator_ColumnPropNameInRow="TblForBreakfast_Food" msprop:Generator_ColumnPropNameInTable="TblForBreakfast_FoodColumn" msprop:Generator_UserColumnName="TblForBreakfast_Food" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TblForLunch_Food" msprop:Generator_ColumnVarNameInTable="columnTblForLunch_Food" msprop:Generator_ColumnPropNameInRow="TblForLunch_Food" msprop:Generator_ColumnPropNameInTable="TblForLunch_FoodColumn" msprop:Generator_UserColumnName="TblForLunch_Food" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TblForDinner_Food" msprop:Generator_ColumnVarNameInTable="columnTblForDinner_Food" msprop:Generator_ColumnPropNameInRow="TblForDinner_Food" msprop:Generator_ColumnPropNameInTable="TblForDinner_FoodColumn" msprop:Generator_UserColumnName="TblForDinner_Food" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TblForSnack_Food" msprop:Generator_ColumnVarNameInTable="columnTblForSnack_Food" msprop:Generator_ColumnPropNameInRow="TblForSnack_Food" msprop:Generator_ColumnPropNameInTable="TblForSnack_FoodColumn" msprop:Generator_UserColumnName="TblForSnack_Food" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TblForDrink_Food" msprop:Generator_ColumnVarNameInTable="columnTblForDrink_Food" msprop:Generator_ColumnPropNameInRow="TblForDrink_Food" msprop:Generator_ColumnPropNameInTable="TblForDrink_FoodColumn" msprop:Generator_UserColumnName="TblForDrink_Food" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Comments" msprop:Generator_ColumnVarNameInTable="columnComments" msprop:Generator_ColumnPropNameInRow="Comments" msprop:Generator_ColumnPropNameInTable="CommentsColumn" msprop:Generator_UserColumnName="Comments" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FollowUp" msprop:Generator_ColumnVarNameInTable="columnFollowUp" msprop:Generator_ColumnPropNameInRow="FollowUp" msprop:Generator_ColumnPropNameInTable="FollowUpColumn" msprop:Generator_UserColumnName="FollowUp" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

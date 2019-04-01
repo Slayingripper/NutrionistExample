@@ -1,0 +1,235 @@
+C:\Users\Nestorides\Desktop\Presentation\Class 7\Projects\Ieropoulos Vasilis\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\Users\Nestorides\Desktop\Presentation\Class 7\Projects\Ieropoulos Vasilis\PROGRAM UNIT 4\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Vasilis (3.mdb
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.pdb
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.xml
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.create.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.login.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.mainmenu.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Resources.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.SplashScreen1.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.viewc.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrition.vbproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Vasilis (3.mdb
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.pdb
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.xml
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.create.resources
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Thursday.resources
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Wensday.resources
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.tuesday1.resources
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Monday.resources
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.login.resources
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.mainmenu.resources
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Resources.resources
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.SplashScreen1.resources
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.viewc.resources
+C:\Users\WhiteFalcon\Dropbox\COMPUTERS\PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrition.vbproj.GenerateResource.Cache
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Vasilis (3.mdb
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.pdb
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.xml
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.create.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Sunday.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Saturday.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Friday.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Thursday.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Wensday.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.tuesday1.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Monday.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.login.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.mainmenu.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Resources.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.SplashScreen1.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.viewc.resources
+C:\Users\Student39\Desktop\5_C\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\Unit 4 PROJECT\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrition.vbproj.GenerateResource.Cache
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Vasilis (3.mdb
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.pdb
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.xml
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.create.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Sunday.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Saturday.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Friday.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Thursday.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Wensday.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.tuesday1.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Monday.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.login.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.mainmenu.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Resources.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.SplashScreen1.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.viewc.resources
+C:\Users\Student39\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrition.vbproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.ViewClient.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Sunday.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Saturday.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Friday.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Thursday.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Wensday.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.tuesday1.resources
+C:\Users\Student\Desktop\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Monday.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Vasilis (3.mdb
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.pdb
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.xml
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.create.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.ViewClient.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Sunday.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Saturday.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Friday.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Thursday.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Wensday.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.tuesday1.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Monday.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.login.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.mainmenu.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Resources.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.SplashScreen1.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.viewc.resources
+C:\Users\WhiteFalcon\Downloads\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrition.vbproj.GenerateResource.Cache
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Vasilis (3.mdb
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.pdb
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.xml
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.create.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.ViewClient.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Sunday.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Saturday.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Friday.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Thursday.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.tuesday1.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Monday.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.login.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.mainmenu.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Resources.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.SplashScreen1.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.viewc.resources
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrition.vbproj.GenerateResource.Cache
+E:\PROGRAM UNIT 4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Wednesday.resources
+C:\Users\WhiteFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\Users\WhiteFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+C:\Users\WhiteFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+C:\Users\WhiteFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.create.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.ViewClient.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Sunday.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Saturday.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Friday.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Thursday.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Wednesday.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.tuesday1.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Monday.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.login.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.mainmenu.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Resources.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.SplashScreen1.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.viewc.resources
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrition.vbproj.GenerateResource.Cache
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Vasilis (3.mdb
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.pdb
+C:\VB2010\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.xml
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Vasilis (3.mdb
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.pdb
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.xml
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.create.resources
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.ViewClient.resources
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.NewClient.resources
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.login.resources
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.mainmenu.resources
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Resources.resources
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.SplashScreen1.resources
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.viewc.resources
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\My Documents\Year 2014 2015\Projects\Ieropoulos Vasilis\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Day.resources
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Vasilis (3.mdb
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.pdb
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.xml
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Day.resources
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.create.resources
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.ViewClient.resources
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.NewClient.resources
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.login.resources
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.mainmenu.resources
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Resources.resources
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.SplashScreen1.resources
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.viewc.resources
+C:\Users\RedFalcon\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrition.vbproj.GenerateResource.Cache
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Vasilis (3.mdb
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.pdb
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.xml
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Day.resources
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.create.resources
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.ViewClient.resources
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.NewClient.resources
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.login.resources
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.mainmenu.resources
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Resources.resources
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.SplashScreen1.resources
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.viewc.resources
+C:\Users\WhiteFalcon\OneDrive\OneDrive - The Grammar School, Nicosia\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrition.vbproj.GenerateResource.Cache
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe.config
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.exe
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.xml
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrionist.pdb
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.exe
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.pdb
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Nutrionist.xml
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Day.resources
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.create.resources
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.ViewClient.resources
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.NewClient.resources
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.login.resources
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.mainmenu.resources
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.Resources.resources
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.SplashScreen1.resources
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutritionist.viewc.resources
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Nutrition.vbproj.GenerateResource.Cache
+C:\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\Vasilis.accdb

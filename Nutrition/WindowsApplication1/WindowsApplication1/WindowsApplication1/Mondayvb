@@ -1,0 +1,16 @@
+﻿Public Class breakfast
+
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        'TODO: This line of code loads data into the '_Vasilis__3DataSet6.TblForDrink' table. You can move, or remove it, as needed.
+        Me.TblForDrinkTableAdapter.Fill(Me._Vasilis__3DataSet6.TblForDrink)
+        'TODO: This line of code loads data into the '_Vasilis__3DataSet3.TblForDinner' table. You can move, or remove it, as needed.
+        Me.TblForDinnerTableAdapter.Fill(Me._Vasilis__3DataSet3.TblForDinner)
+        'TODO: This line of code loads data into the '_Vasilis__3DataSet2.TblForLunch' table. You can move, or remove it, as needed.
+        Me.TblForLunchTableAdapter.Fill(Me._Vasilis__3DataSet2.TblForLunch)
+        'TODO: This line of code loads data into the '_Vasilis__3DataSet1.TblForSnack' table. You can move, or remove it, as needed.
+        Me.TblForSnackTableAdapter.Fill(Me._Vasilis__3DataSet1.TblForSnack)
+        'TODO: This line of code loads data into the '_Vasilis__3DataSet6.TblForBreakfast' table. You can move, or remove it, as needed.
+        Me.TblForBreakfastTableAdapter.Fill(Me._Vasilis__3DataSet6.TblForBreakfast)
+
+    End Sub
+End Class
